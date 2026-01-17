@@ -1,21 +1,17 @@
-# WordVision Support
-
-## Welcome to WordVision Support
+## Welcome to Word Vision Vocabulary Support
 
 Thank you for using WordVision! This support page is designed to help you get the most out of your vocabulary learning experience. If you can't find the answer you're looking for, please don't hesitate to contact our support team.
 
-## Contact Support
+## Contact Support
 
 If you can't find the answer to your question below, please contact us:
 
-📧 Email: info@apps14.com
-🐛 Bug Reports: Please include your device model and iOS version
-💡 Feature Requests: We love hearing your ideas for improvements
-⭐ App Store Reviews: Help other users by leaving a review
+Email: info@apps14.com
+Bug Reports: Please include your device model and iOS version
+Feature Requests: We love hearing your ideas for improvements
+App Store Reviews: Help other users by leaving a review
 
 Response Time: We typically respond within 24-48 hours.
-
----
 
 ## Getting Started
 
