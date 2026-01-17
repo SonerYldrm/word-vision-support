@@ -4,6 +4,17 @@
 
 Thank you for using WordVision! This support page is designed to help you get the most out of your vocabulary learning experience. If you can't find the answer you're looking for, please don't hesitate to contact our support team.
 
+## Contact Support
+
+If you can't find the answer to your question below, please contact us:
+
+📧 Email: info@apps14.com
+🐛 Bug Reports: Please include your device model and iOS version
+💡 Feature Requests: We love hearing your ideas for improvements
+⭐ App Store Reviews: Help other users by leaving a review
+
+Response Time: We typically respond within 24-48 hours.
+
 ---
 
 ## Getting Started
@@ -179,33 +190,6 @@ A: Answer correctly without using hints. Each hint reduces your final score by 2
 ### Q: What happens if I delete the app?
 
 A: All local progress will be lost. Premium purchases can be restored after reinstalling.
-
----
-
-## Contact Support
-
-### Email Support
-
-Email: support@wordvision.app (replace with your actual email)
-
-Please include:
-- Your device model and iOS version
-- Description of the issue
-- Steps to reproduce (if applicable)
-- Screenshots (if helpful)
-
-### Response Time
-
-- We aim to respond within 24-48 hours
-- Complex issues may take longer
-
-### Before Contacting Support
-
-- Check this support page first
-- Try the troubleshooting steps above
-- Make sure your app and iOS are up to date
-
----
 
 ## Tips for Best Experience
 
